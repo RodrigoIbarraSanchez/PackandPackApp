@@ -6,14 +6,15 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>IberoBus User App</name>
+    <name>PackandPackApp</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Prototipo de aplicación de Pack and Pack
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+        Rodrigo Ibarra Sánchez
+        Sergio enrique Vargas García
     </author>
 
     <!--
