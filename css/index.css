@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#inicioSesion{
+    background: url(../img/caja.jpg) no-repeat;
+    background-size: 100%!important;
+}
+.envoltura {
+    text-align: center;
+}
+.envoltura img {
+    margin-top: 5%;
+}
+#formulario {
+    margin-top: 20%;
+}
+div.ui-input-text {
+    width: 400px;
+    margin: 0;
+    display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border:none;
+      border-radius: 0!important;
+}
+.ui-btn {
+    width: 400px;
+    margin: 0;
+    display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border:none;
+      border-radius: 0!important;
+}
